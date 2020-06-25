@@ -1,4 +1,4 @@
-module github.com/divinerapier/aws-samples-go/lambda
+module github.com/divinerapier/aws-samples-go
 
 go 1.14
 
